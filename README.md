@@ -1,1 +1,2 @@
-# ToDo_List![To-do-app](https://user-images.githubusercontent.com/114111298/226967432-dc87e1ca-2bbe-4064-97ec-7c7b033fc836.gif)
+# ToDo_List!
+![To-Do-app](https://user-images.githubusercontent.com/114111298/226970129-7a8f8240-0142-4062-89d8-a8b840bbfe03.gif)
